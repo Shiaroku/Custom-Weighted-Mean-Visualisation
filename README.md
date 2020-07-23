@@ -1,3 +1,4 @@
 # Visualisation of custom weights for the mean
 
-[Open the notebook](notebook.ipynb)
+### Click on the image to open the notebook
+[![](example-output.svg)](notebook.ipynb)
